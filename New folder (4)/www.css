@@ -1,0 +1,710 @@
+#ui {
+    border: 1px solid blue;
+    background-color: blue;
+    height: 60px;
+    width: 100%;
+}
+#it{
+    color: white;
+    margin-top: 20px;
+    margin-left: 70px;
+}
+#jy{
+    position: absolute;
+    padding-left:1030px;
+   top: 30px;
+   color:white;
+   
+}
+#rv{
+    position: absolute;
+   padding-left: 1060px;
+    top: 28px;
+    color:white;
+}
+#sg{
+    position: absolute;
+    padding-left:1090px ;
+    top: 28px;
+    color: white;
+    
+}
+#qb{
+    position: absolute;
+    padding-left: 1120px;
+    top: 28px;
+    color: white;
+}
+#pass{
+    position: absolute;
+    color:black;
+    
+   
+ 
+  
+
+}
+
+#you {
+    position: absolute;
+    text-decoration-line: none;
+    color: gray;
+   padding-top: 22px;
+    padding-left: 640px;
+    font-size: large;
+
+
+}
+
+#a1 {
+    position: absolute;
+    top: 20px;
+    width: 100%;
+    height: 50px;
+
+}
+
+#fail {
+    position: absolute;
+
+    font-size: 40px;
+    margin-top: 70px;
+    margin-left: 120px;
+    
+
+
+}
+
+#aaa {
+    position: absolute;
+    margin-left: 530px;
+    margin-top: 90px;
+   
+}
+
+#bbb {
+    position: absolute;
+    margin-top: 90px;
+    margin-left: 600px;
+    position: fixed;
+
+}
+
+#cv {
+    position: absolute;
+    margin-top: 90px;
+    margin-left: 690px;
+    position: fixed;
+}
+
+#po {
+    position: absolute;
+    margin-top: 90px;
+    margin-left: 800px;
+    position: fixed;
+}
+
+#xd {
+    position: absolute;
+    margin-top: 90px;
+    margin-left: 930px;
+    position: fixed;
+}
+
+#wd {
+    position: absolute;
+    margin-top: 90px;
+    margin-left: 1070px;
+    position: fixed;
+}
+.d3>button{
+    
+    border: 1px solid rgb(194, 192, 192);
+}
+
+#lk {
+    position: absolute;
+    margin-top: 90px;
+    margin-left: 1130px;
+    position: fixed;
+}
+
+#right {
+    width: 110%;
+    height: 80px;
+    background-color: rgb(206, 205, 205);
+    border: 0px solid rgb(204, 201, 201);
+margin-top: 80px;
+
+}
+
+#ccc {
+    font-family: Verdana;
+    font-size: 20px;
+    padding-top: 30px;
+    padding-left: 120px;
+    
+
+}
+
+#ddd {
+    color: black;
+    position: absolute;
+    left: 890px;
+    top: 180px;
+    text-decoration: none;
+}
+
+#eee {
+    position: absolute;
+    font-family: Verdana;
+    font-size: 12px;
+    color: black;
+    top: 170px;
+    margin-left: 950px;
+
+}
+
+#fff {
+    font-family: sans-serif;
+    font-weight: 25px;
+    font-size: 22px;
+    margin-bottom: 50px;
+    margin-top: 60px;
+    margin-left: 120px;
+
+}
+
+#ggg {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 120px;
+    width: 70px;
+    height: 50px;
+}
+
+#hhh {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 0px;
+    width: 150px;
+    height: 50px;
+}
+
+#rt {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 5px;
+    height: 50px;
+    width: 90px;
+}
+
+#hj {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 3 px;
+    height: 50px;
+    width: 90px;
+}
+
+#rti {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 1px;
+    height: 50px;
+    width: 150px;
+
+}
+
+#op {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 1px;
+    height: 50px;
+    width: 100px;
+}
+
+#qw {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 1px;
+    height: 50px;
+    width: 90px;
+
+}
+
+#er {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 1px;
+    height: 50px;
+    width: 70px;
+}
+
+#ty {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 1px;
+    height: 50px;
+    width: 120px;
+}
+
+#io {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 1px;
+    height: 50px;
+    width: 120px;
+
+}
+
+#ao {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 120px;
+    height: 50px;
+    width: 100px;
+    margin-top: 2px;
+}
+
+#as {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 1px;
+    height: 50px;
+    width: 150px;
+}
+
+#sd {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 1px;
+    height: 50px;
+    width: 90px;
+}
+
+#se {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 1px;
+    height: 50px;
+    width: 120px;
+}
+
+#fg {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 1px;
+    height: 50px;
+    width: 120px;
+}
+
+#gh {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 1px;
+    height: 50px;
+    width: 100px;
+
+}
+
+#hj {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 1px;
+    height: 50px;
+    width: 100px;
+
+}
+
+#jk {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 1px;
+    height: 50px;
+    width: 120px;
+
+}
+
+#kl {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 1px;
+    height: 50px;
+    width: 110px;
+}
+
+#lz {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 119px;
+    height: 50px;
+    width: 90px;
+    margin-top: 1px;
+}
+
+#lz {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 119px;
+    height: 50px;
+    width: 90px;
+    margin-top: 1px;
+}
+
+#zx {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 1px;
+    height: 50px;
+    width: 90px;
+    margin-top: 1px;
+}
+
+#xc {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 1px;
+    height: 50px;
+    width: 100px;
+    margin-top: 1px;
+}
+
+#vb {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 1px;
+    height: 50px;
+    width: 130px;
+    margin-top: 1px;
+}
+
+#bn {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 1px;
+    height: 50px;
+    width: 90px;
+    margin-top: 1px;
+}
+
+#nm {
+
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 1px;
+    height: 50px;
+    width: 90px;
+    margin-top: 1px;
+}
+
+#mn {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 1px;
+    height: 50px;
+    width: 120px;
+    margin-top: 1px;
+}
+
+#nb {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 1px;
+    height: 50px;
+    width: 70px;
+    margin-top: 1px;
+
+}
+
+#bv {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 1px;
+    height: 50px;
+    width: 100px;
+    margin-top: 1px;
+
+}
+
+#vc {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 1px;
+    height: 50px;
+    width: 150px;
+    margin-top: 1px;
+}
+
+#cx {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 118px;
+    height: 50px;
+    width: 130px;
+    margin-top: 1px;
+}
+
+#xz {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 1px;
+    height: 50px;
+    width: 150px;
+    margin-top: 1px;
+}
+
+#zl {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 1px;
+    height: 50px;
+    width: 70px;
+    margin-top: 1px;
+}
+
+#kj {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 1px;
+    height: 50px;
+    width: 100px;
+    margin-top: 1px;
+}
+
+#hg {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 1px;
+    height: 50px;
+    width: 100px;
+    margin-top: 1px;
+
+}
+
+#gf {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 1px;
+    height: 50px;
+    width: 90px;
+
+    margin-top: 1px;
+}
+
+#fd {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 1px;
+    height: 50px;
+    width: 100px;
+    margin-top: 1px;
+}
+
+#ds {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 1px;
+    height: 50px;
+    width: 100px;
+    margin-top: 1px;
+}
+
+#sa {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 1px;
+    height: 50px;
+    width: 130px;
+    margin-top: 1px;
+
+}
+
+#ap {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 1px;
+    height: 50px;
+    width: 100px;
+    margin-top: 1px;
+}
+
+#oi {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 118px;
+    height: 50px;
+    width: 100px;
+    margin-top: 1px;
+
+}
+
+#iu {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 1px;
+    height: 50px;
+    width: 100px;
+    margin-top: 1px
+}
+
+#uy {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 1px;
+    height: 50px;
+    width: 90px;
+    margin-top: 1px
+}
+
+#ut {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 1px;
+    height: 50px;
+    width: 70px;
+    margin-top: 1px
+}
+
+#yt {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 1px;
+    height: 50px;
+    width: 100px;
+    margin-top: 1px
+}
+
+#tr {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 1px;
+    height: 50px;
+    width: 130px;
+    margin-top: 1px
+}
+
+#re {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 1px;
+    height: 50px;
+    width: 100px;
+    margin-top: 1px
+}
+
+#ew {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 1px;
+    height: 50px;
+    width: 90px;
+    margin-top: 1px
+}
+
+#et {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 1px;
+    height: 50px;
+    width: 130px;
+    margin-top: 1px
+}
+
+#wq {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 1px;
+    height: 50px;
+    width: 100px;
+    margin-top: 1px
+}
+
+#kd {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 118px;
+    height: 50px;
+    width: 120px;
+    margin-top: 1px
+}
+
+#mh {
+    background-color: white;
+    border: 1px solid gray;
+    margin-left: 1px;
+    height: 50px;
+    width: 120px;
+    margin-top: 1px
+}
+
+#me {
+    margin-left: 500px;
+    margin-top: 40px;
+
+}
+
+#a3 {
+    margin-left: 100px;
+    margin-top: 40px;
+    font-size: 25px;
+}
+
+#z1 {
+    margin-left: 40px;
+}
+
+#df {
+    margin-left: 40px;
+    margin-bottom: 150px;
+    background-color: aquamarine;
+    width: 400px;
+    height: 180px;
+}
+
+#z1 {
+    margin-left: 80px;
+
+
+}
+
+#aa2 {
+    margin-left: 90px;
+    width: 350px;
+    height: 200px;
+    background-color: rgb(212, 208, 208);
+}
+
+#aa3 {
+    padding-top: 40px;
+    padding-left: 10px;
+
+}
+
+#mr {
+    height: 50px;
+    width: 90px;
+    background-color: blue;
+    border: 1px solid rgb(5, 5, 133);
+    text-decoration-color: white;
+    font-size: 18px;
+    text-align: center;
+    margin-left: 10px;
+}
+
+#z2 {
+    margin-left: 500px;
+    width: 350px;
+    height: 200px;
+    background-color: rgb(204, 202, 202);
+
+
+
+}
+
+#all {
+    padding-top: 40px;
+    padding-left: 10px;
+
+
+}
